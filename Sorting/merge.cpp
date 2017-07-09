@@ -48,5 +48,3 @@ int main(){
 		cout<<a[i]<<"\t";
 	return 0;
 }
-
-
